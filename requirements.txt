@@ -1,0 +1,5 @@
+# analysis and figures (offline)
+numpy==2.3.5
+matplotlib==3.10.6
+# only needed to regenerate conversations (paid): see README
+# boto3==1.43.6

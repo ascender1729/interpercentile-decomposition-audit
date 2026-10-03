@@ -1,0 +1,134 @@
+[
+ {
+  "task": "actions",
+  "model": "claude-sonnet4.5",
+  "gap": 40.964912280701746,
+  "recovered": 40.04282655246254,
+  "unrec": 26.31578947368421,
+  "unrec_lo": 5.263157894736842,
+  "unrec_hi": 47.368421052631575,
+  "det": 26.31578947368421,
+  "n": 19
+ },
+ {
+  "task": "actions",
+  "model": "deepseek-r1",
+  "gap": 65.33333333333333,
+  "recovered": 45.91836734693878,
+  "unrec": 36.0,
+  "unrec_lo": 16.0,
+  "unrec_hi": 56.00000000000001,
+  "det": 36.0,
+  "n": 25
+ },
+ {
+  "task": "actions",
+  "model": "llama3.3-70b",
+  "gap": 30.666666666666675,
+  "recovered": 47.82608695652175,
+  "unrec": 16.0,
+  "unrec_lo": 4.0,
+  "unrec_hi": 32.0,
+  "det": 16.0,
+  "n": 25
+ },
+ {
+  "task": "actions",
+  "model": "llama4-maverick",
+  "gap": 39.33333333333333,
+  "recovered": 49.15254237288136,
+  "unrec": 20.0,
+  "unrec_lo": 4.0,
+  "unrec_hi": 36.0,
+  "det": 20.0,
+  "n": 25
+ },
+ {
+  "task": "actions",
+  "model": "mistral-pixtral-l",
+  "gap": 32.77777777777777,
+  "recovered": 53.75302663438255,
+  "unrec": 23.809523809523807,
+  "unrec_lo": 9.523809523809524,
+  "unrec_hi": 42.857142857142854,
+  "det": 14.285714285714285,
+  "n": 21
+ },
+ {
+  "task": "actions",
+  "model": "nova2-lite",
+  "gap": 53.06666666666666,
+  "recovered": 47.23618090452263,
+  "unrec": 28.000000000000004,
+  "unrec_lo": 8.0,
+  "unrec_hi": 48.0,
+  "det": 32.0,
+  "n": 25
+ },
+ {
+  "task": "actions",
+  "model": "qwen3-32b",
+  "gap": 46.8,
+  "recovered": 58.68945868945868,
+  "unrec": 20.0,
+  "unrec_lo": 7.900000000000006,
+  "unrec_hi": 36.0,
+  "det": 20.0,
+  "n": 25
+ },
+ {
+  "task": "math",
+  "model": "claude-sonnet4.5",
+  "gap": 26.222222222222204,
+  "recovered": 63.98305084745765,
+  "unrec": 10.0,
+  "unrec_lo": -3.3333333333333335,
+  "unrec_hi": 23.333333333333332,
+  "det": 13.333333333333334,
+  "n": 30
+ },
+ {
+  "task": "math",
+  "model": "deepseek-r1",
+  "gap": 28.61784511784512,
+  "recovered": 98.49991175951529,
+  "unrec": 3.3333333333333335,
+  "unrec_lo": 0.0,
+  "unrec_hi": 10.0,
+  "det": 3.3333333333333335,
+  "n": 30
+ },
+ {
+  "task": "math",
+  "model": "llama4-maverick",
+  "gap": 35.03872053872053,
+  "recovered": 108.24004228126654,
+  "unrec": 3.3333333333333335,
+  "unrec_lo": 0.0,
+  "unrec_hi": 10.0,
+  "det": 0.0,
+  "n": 30
+ },
+ {
+  "task": "math",
+  "model": "nova2-lite",
+  "gap": 37.05555555555555,
+  "recovered": 80.50974512743629,
+  "unrec": 10.0,
+  "unrec_lo": -3.3333333333333335,
+  "unrec_hi": 23.333333333333332,
+  "det": 10.0,
+  "n": 30
+ },
+ {
+  "task": "math",
+  "model": "qwen3-32b",
+  "gap": 33.59283309283311,
+  "recovered": 91.80621281652931,
+  "unrec": 10.0,
+  "unrec_lo": 0.0,
+  "unrec_hi": 23.333333333333332,
+  "det": 3.3333333333333335,
+  "n": 30
+ }
+]
